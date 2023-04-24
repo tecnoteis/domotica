@@ -1,0 +1,6 @@
+service: light.turn_on
+data: {}
+target:
+  area_id: taller
+  device_id: 7f0ca7beda7ec476085080e7c3ab07d1
+  entity_id: light.esp32domotica_luz
