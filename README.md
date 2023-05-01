@@ -9,14 +9,15 @@ No proxecto final colocamos os sensores e actuadores na maqueta do instituto par
 ![EdificioSinPortas(1)](https://user-images.githubusercontent.com/126872606/228348099-7fb05715-eebd-4826-916e-fc07074e7c42.png)
 
 Visualización das tarefas realizadas:
-![Mapa Mental](https://user-images.githubusercontent.com/126872606/235425098-43155a56-0149-4694-9ab4-f6a71be46451.jpg)
-![Fluxo de traballo](https://user-images.githubusercontent.com/126872606/235425115-98739843-454b-4425-beaf-e427c1c25d46.jpg)
+![Mapa Mental](https://user-images.githubusercontent.com/126872606/235425513-8f828399-a986-4e79-b123-7d7d4ad3534d.jpg)
+![Fluxo de traballo](https://user-images.githubusercontent.com/126872606/235425628-92813e6f-5ad7-4d0e-8e0e-36027f5eabf9.jpg)
 
 
 
 Utilizamos unha ESP32 WROOM conectada aos sensores e actuadores comopodes ver na táboa de conexións GPIO e na seguinte imaxe:
 
 ![EsquemaConexions_bb](https://user-images.githubusercontent.com/126872606/234692499-df68bb9e-6d42-405d-8644-8cca9cc090bc.svg)
+Fritzing
 
 Para programar cada un dos dispositivos podes ler a información sobre o mesmo en cada unha das páxinas ás que podes acceder desde o documento 'LigazonsESPHome.pdf'
 Os pasos do proxecto da maqueta domótica son:
